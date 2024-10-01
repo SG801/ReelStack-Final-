@@ -1,0 +1,231 @@
+[
+  {
+    "review_id": "1",
+    "movie_name": "It Ends with Us",
+    "reviewer_name": "Emily Johnson",
+    "review": "A powerful exploration of love and resilience, It Ends with Us beautifully portrays the struggles and triumphs of its characters.",
+    "weighting": "3",
+    "date": "2022-08-15",
+    "star_rating": 5
+  },
+  {
+    "review_id": "2",
+    "movie_name": "It Ends with Us",
+    "reviewer_name": "Michael Brown",
+    "review": "The performances were stellar, but the pacing felt a bit off in the middle.",
+    "weighting": "2",
+    "date": "2022-08-20",
+    "star_rating": 3
+  },
+  {
+    "review_id": "3",
+    "movie_name": "It Ends with Us",
+    "reviewer_name": "Sophia Davis",
+    "review": "A heart-wrenching story that stays with you long after the credits roll.",
+    "weighting": "4",
+    "date": "2022-08-25",
+    "star_rating": 4
+  },
+  {
+    "review_id": "4",
+    "movie_name": "It Ends with Us",
+    "reviewer_name": "Daniel Wilson",
+    "review": "The writing is poignant, but I found some of the characters underdeveloped.",
+    "weighting": "1",
+    "date": "2022-09-01",
+    "star_rating": 2
+  },
+  {
+    "review_id": "5",
+    "movie_name": "It Ends with Us",
+    "reviewer_name": "Olivia Martinez",
+    "review": "An emotional rollercoaster that captures the complexities of relationships.",
+    "weighting": "5",
+    "date": "2022-09-05",
+    "star_rating": 5
+  },
+
+  {
+    "review_id": "6",
+    "movie_name": "Deadpool & Wolverine",
+    "reviewer_name": "James Anderson",
+    "review": "A hilarious and action-packed film that perfectly blends comedy and superhero antics.",
+    "weighting": "4",
+    "date": "2023-03-10",
+    "star_rating": 5
+  },
+  {
+    "review_id": "7",
+    "movie_name": "Deadpool & Wolverine",
+    "reviewer_name": "Emma Thomas",
+    "review": "The chemistry between the leads is fantastic, and the humor is on point.",
+    "weighting": "2",
+    "date": "2023-03-12",
+    "star_rating": 4
+  },
+  {
+    "review_id": "8",
+    "movie_name": "Deadpool & Wolverine",
+    "reviewer_name": "William Taylor",
+    "review": "While the action scenes are impressive, the plot could use more depth.",
+    "weighting": "3",
+    "date": "2023-03-15",
+    "star_rating": 3
+  },
+  {
+    "review_id": "9",
+    "movie_name": "Deadpool & Wolverine",
+    "reviewer_name": "Isabella Lee",
+    "review": "An entertaining ride from start to finish, with laugh-out-loud moments.",
+    "weighting": "5",
+    "date": "2023-03-20",
+    "star_rating": 5
+  },
+  {
+    "review_id": "10",
+    "movie_name": "Deadpool & Wolverine",
+    "reviewer_name": "Lucas Harris",
+    "review": "It’s a fun watch, but not as impactful as previous installments.",
+    "weighting": "1",
+    "date": "2023-03-25",
+    "star_rating": 2
+  },
+
+  {
+    "review_id": "11",
+    "movie_name": "Inside Out 2",
+    "reviewer_name": "Ava Walker",
+    "review": "A delightful sequel that captures the essence of emotions beautifully.",
+    "weighting": "3",
+    "date": "2023-07-18",
+    "star_rating": 4
+  },
+  {
+    "review_id": "12",
+    "movie_name": "Inside Out 2",
+    "reviewer_name": "Mason King",
+    "review": "Not as groundbreaking as the first, but still a heartwarming story.",
+    "weighting": "2",
+    "date": "2023-07-20",
+    "star_rating": 3
+  },
+  {
+    "review_id": "13",
+    "movie_name": "Inside Out 2",
+    "reviewer_name": "Ella Scott",
+    "review": "The animation is stunning, and the emotional depth is still there.",
+    "weighting": "4",
+    "date": "2023-07-25",
+    "star_rating": 5
+  },
+  {
+    "review_id": "14",
+    "movie_name": "Inside Out 2",
+    "reviewer_name": "Jackson Young",
+    "review": "A charming sequel, but I wished for more character development.",
+    "weighting": "1",
+    "date": "2023-08-01",
+    "star_rating": 2
+  },
+  {
+    "review_id": "15",
+    "movie_name": "Inside Out 2",
+    "reviewer_name": "Chloe Hernandez",
+    "review": "An enjoyable film that teaches valuable lessons about emotions.",
+    "weighting": "5",
+    "date": "2023-08-05",
+    "star_rating": 4
+  },
+
+  {
+    "review_id": "16",
+    "movie_name": "Despicable Me 4",
+    "reviewer_name": "Ethan Wright",
+    "review": "Another hilarious installment in the series, full of fun and adventure.",
+    "weighting": "5",
+    "date": "2023-06-10",
+    "star_rating": 5
+  },
+  {
+    "review_id": "17",
+    "movie_name": "Despicable Me 4",
+    "reviewer_name": "Abigail Green",
+    "review": "The minions steal the show once again, but the plot is a bit predictable.",
+    "weighting": "2",
+    "date": "2023-06-12",
+    "star_rating": 3
+  },
+  {
+    "review_id": "18",
+    "movie_name": "Despicable Me 4",
+    "reviewer_name": "Alexander Adams",
+    "review": "A fun family movie that kids will love, but it lacks originality.",
+    "weighting": "3",
+    "date": "2023-06-15",
+    "star_rating": 3
+  },
+  {
+    "review_id": "19",
+    "movie_name": "Despicable Me 4",
+    "reviewer_name": "Mia Collins",
+    "review": "Visually entertaining, but the storyline fell flat for me.",
+    "weighting": "1",
+    "date": "2023-06-18",
+    "star_rating": 2
+  },
+  {
+    "review_id": "20",
+    "movie_name": "Despicable Me 4",
+    "reviewer_name": "Benjamin Rivera",
+    "review": "A delightful film filled with laughter and heartwarming moments.",
+    "weighting": "4",
+    "date": "2023-06-20",
+    "star_rating": 4
+  },
+
+  {
+    "review_id": "21",
+    "movie_name": "Borderlands",
+    "reviewer_name": "Avery Morgan",
+    "review": "An action-packed adventure that captures the spirit of the game.",
+    "weighting": "5",
+    "date": "2023-09-15",
+    "star_rating": 4
+  },
+  {
+    "review_id": "22",
+    "movie_name": "Borderlands",
+    "reviewer_name": "Logan Bell",
+    "review": "A fun ride with plenty of laughs, but it felt disjointed at times.",
+    "weighting": "2",
+    "date": "2023-09-17",
+    "star_rating": 3
+  },
+  {
+    "review_id": "23",
+    "movie_name": "Borderlands",
+    "reviewer_name": "Scarlett Carter",
+    "review": "Great visuals and action, but the plot could have been stronger.",
+    "weighting": "3",
+    "date": "2023-09-20",
+    "star_rating": 3
+  },
+  {
+    "review_id": "24",
+    "movie_name": "Borderlands",
+    "reviewer_name": "Daniel White",
+    "review": "Entertaining for fans of the genre, though not without its flaws.",
+    "weighting": "1",
+    "date": "2023-09-25",
+    "star_rating": 2
+  },
+  {
+    "review_id": "25",
+    "movie_name": "Borderlands",
+    "reviewer_name": "Sofia Hall",
+    "review": "A chaotic adventure that keeps you on your toes!",
+    "weighting": "4",
+    "date": "2023-09-30",
+    "star_rating": 4
+  }
+]
